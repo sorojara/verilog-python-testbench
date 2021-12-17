@@ -172,7 +172,7 @@ All the testable verilog modules are stored in the modules directory; this modul
 This project store every testbench in its own folder inside the testbenches folder. Every single testbench folder has the same internal structure which is displayed below.
 
 ``` bash
-├── \_\_init__.py # Python package Marker
+├── __init__.py # Python package Marker
 ├── makefile # Makefile based on [Cocotb](https://github.com/cocotb/cocotb) ones
 ├── config # Configuration Folder
 │ └── sim.tcl # TCL file for GTKwave
