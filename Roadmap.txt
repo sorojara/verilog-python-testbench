@@ -1,0 +1,40 @@
+[ ] Documentation:
+    - [x] TCL
+    - [x] verilog module
+    - [x] tb.py
+        - [x] co_common library
+    - [x] root makefile
+
+[x] Restructure the project
+    - [x] Move verilog modules to a directory  
+    - [x] Create python modules for easy management
+
+[x] Python Framework:
+    - [x] CLOCK object 
+        - [x] Refactor adder
+        - [x] Refactor lut_multiplier_2b
+        - [x] Refactor lut_multiplier_4b
+        - [x] Refactor lut_multiplier_32b
+
+[x] Restructure current examples (makefiles and test suits)
+
+________ Initial Commit _________|
+[ ] Python Framework:
+    - [ ] refactor co_common structure
+    - [ ] delte unused files
+    - [ ] dictionary state assertion
+    - [ ] serial signal builder
+    - [ ] assertion functions
+
+
+[ ] Add new examples
+_________________________________|
+
+[ ] TCL file builder
+_________________________________|
+
+[ ] Create Template Builder
+_________________________________|
+
+
+
